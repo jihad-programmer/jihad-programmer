@@ -22,8 +22,6 @@ Skills: Tailwind/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 📫 How to reach me **mdjaminur2300@gmail.com*
 
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
@@ -100,7 +98,7 @@ Skills: Tailwind/ BOOTSTRAP / REACT / JS / HTML / CSS
 <div align="center">
 <br/>
 
-<a href="https://[www.facebook.com/jihad-programmer](https://www.facebook.com/home.php)" target="_blank">
+<a href="https://[www.facebook.com/jihad-programmer]" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
 </a>  
 </div>
