@@ -1,7 +1,7 @@
 ![I am jihad-programmer](https://github.com/jihad-programmer/jihad-programmer/blob/main/code.png)
 
-<h1 align="center">Hi 👋, I'm Md.Jaminur Islam Jihad</h1>
-<h3 align="center">Programmer | Web Designer |Speed Learner</h3>
+<h1 align="center">Hi 👋, I'm Md.Jaminur Islam Jehad</h1>
+<h3 align="center">Programmer | FrontEnd Web Developer |Speed Learner</h3>
 <h4 align="center">Learning at Hablu Programmer</h4>
 
 <div align="center">
